@@ -80,6 +80,7 @@ The design separates:
 - `docs/research/RESEARCH-MANIFEST.md`: research cutoff, tracks, methods, and limitations.
 - `docs/research/OPEN-QUESTIONS.md`: decisions required before implementation.
 - `docs/research/TRANSFER-CHECKLIST.md`: publication and privacy review gate.
+- `docs/NEXT-WINDOW-PROMPT.md`: standalone handoff prompt for a fresh GitHub-only session.
 - `docs/specs/V2-SYSTEM-SPEC.md`: complete v2 architecture.
 - `docs/specs/DATA-COMPILER-SPEC.md`: bronze, silver, gold, quarantine, and release rules.
 - `docs/specs/CONTEXT-COMPILER-SPEC.md`: retrieval, context budgets, memory, and perturbation tests.
