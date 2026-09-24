@@ -1,6 +1,6 @@
 # github contribution observatory
 
-A private, documentation-first research project for designing a global GitHub issue observatory and a cautious contribution workflow.
+A public, documentation-first research project for designing a global GitHub issue observatory and a cautious contribution workflow.
 
 ## status
 
@@ -144,10 +144,10 @@ Read `CONTRIBUTING.md` and `SECURITY.md` before proposing changes. Source code f
 
 Repository owner: `harshgounder`
 
-Visibility: private until the owner chooses to publish it.
+Visibility: public, published by owner decision.
 
 No software license has been selected yet. Do not assume permission to reuse code or documentation outside this repository.
 
 ## current recommendation
 
-Keep the research repository private while the specification and acceptance tests are reviewed. The first public-facing release, if chosen later, should be a cleaned documentation release rather than a raw export of internal research notes.
+The repository is now public by owner decision. Continue treating the specification and acceptance tests as the gate before implementation or public contribution actions.

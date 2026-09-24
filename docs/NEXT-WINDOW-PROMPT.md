@@ -38,7 +38,7 @@ Use the GitHub repository as the only project memory. If a file is missing, say 
 - public automated pull requests: disabled;
 - automatic merges: disabled;
 - current branch: `main`;
-- current repository visibility: public after the owner publishes it;
+- current repository visibility: public by owner decision;
 - no software license has been selected;
 - no private data, tokens, hidden chain-of-thought, or raw security reports may be added.
 

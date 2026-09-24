@@ -1,11 +1,11 @@
-# private research transfer checklist
+# research transfer checklist
 
-Use this checklist before moving the project from private research to a public or implementation phase.
+Use this checklist before moving the project from research to public release or implementation.
 
 ## content review
 
 - [ ] all claims have source or explicit uncertainty
-- [ ] private URLs and credentials removed
+- [ ] private URLs and credentials removed unless explicitly approved for a specific reason
 - [ ] private repository names removed unless explicitly approved
 - [ ] personal contact information removed
 - [ ] raw issue bodies removed unless public and necessary

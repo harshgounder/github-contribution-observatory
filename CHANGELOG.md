@@ -2,7 +2,7 @@
 
 ## v0.1.0, research dossier
 
-- created the private documentation workspace;
+- created the documentation workspace, initially private;
 - recorded the global GitHub scale research;
 - documented v1 architecture;
 - recorded v2 corrections from frontier data, context, evaluation, security, and artifact audits;

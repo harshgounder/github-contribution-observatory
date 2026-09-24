@@ -128,4 +128,4 @@ Each mode has different permissions. A later mode cannot be reached by changing 
 
 `harshgounder`
 
-The repository is private by default. Visibility, licensing, and public release require an explicit owner decision.
+The repository is public by owner decision. Licensing and future public releases still require an explicit owner decision.

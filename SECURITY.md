@@ -2,7 +2,7 @@
 
 ## current status
 
-This repository is private and contains research documentation. It does not yet run an autonomous contribution service.
+This repository is public and contains research documentation. It does not yet run an autonomous contribution service.
 
 ## reporting a security issue
 

@@ -39,7 +39,7 @@
 
 ## governance
 
-- Should the repository remain private?
+- repository visibility: public by owner decision;
 - Which license applies to documentation and future code?
 - What public release date is acceptable?
 - Which security contact should be listed?

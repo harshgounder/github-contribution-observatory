@@ -2,7 +2,7 @@
 
 No software license has been selected for this repository.
 
-The repository is private and currently contains research documentation rather than production source code.
+The repository is public and currently contains research documentation rather than production source code.
 
 Do not assume that code or documentation may be copied, redistributed, or used commercially without an explicit license decision by the repository owner.
 
