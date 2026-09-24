@@ -1,0 +1,30 @@
+name: research question
+description: Ask about a research question, source, or design uncertainty.
+title: "[research] "
+labels: [research, needs-triage]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Question
+
+        What is the exact question?
+
+        ## Why it matters
+
+        What decision could change based on the answer?
+
+        ## Evidence
+
+        List primary sources, local observations, or existing project records.
+
+        ## Current status
+
+        - [ ] unresearched
+        - [ ] source discovery started
+        - [ ] evidence collected
+        - [ ] decision pending
+
+        ## Safety
+
+        Do not include credentials, private repository data, personal data, or raw vulnerability details.

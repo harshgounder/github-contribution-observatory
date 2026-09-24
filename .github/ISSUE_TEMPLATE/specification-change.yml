@@ -1,0 +1,33 @@
+name: specification change
+description: Propose a change to a v2 contract, schema, gate, or policy.
+title: "[spec] "
+labels: [spec, needs-review]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Change
+
+        What should change?
+
+        ## Reason
+
+        What evidence or failure supports the change?
+
+        ## Affected contracts
+
+        List affected documents, schemas, or acceptance tests.
+
+        ## Compatibility
+
+        - [ ] backward compatible
+        - [ ] migration required
+        - [ ] breaking change
+
+        ## Validation
+
+        Describe the tests or evidence required.
+
+        ## Safety
+
+        Do not include secrets, private data, hidden reasoning, or raw vulnerability details.
